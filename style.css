@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: xx-large;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: larger;
+    color: darkmagenta;
+}
